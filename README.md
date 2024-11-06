@@ -10,8 +10,7 @@ A lightweight implementation of the classic DoodleJump game, written in C++ usin
 
 ## Prerequisites
 
-To build and run the game, you need:
-- Windows OS
+To build and run the app, you need:
 - GDI+ library (included in Windows)
 - Visual Studio 2019/2022 with C++ support or CMake 3.10+
 - Windows SDK with GDI+ development files
@@ -71,3 +70,7 @@ DoodleJump.exe 1024 768 1  # Launches in fullscreen at 1024x768
 - **Left/Right Arrow Keys**: Move the character
 - **Mouse Movement**: Aim
 - **Left Mouse Button**: Shoot
+
+
+https://github.com/user-attachments/assets/2a3dc1c3-dedd-47e1-a13d-5973646328b2
+
