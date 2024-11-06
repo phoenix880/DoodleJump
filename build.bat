@@ -4,5 +4,5 @@ cd build
 cmake ..
 cmake --build . --config Release
 cd ..
-echo Build completed! Executable is in the bin folder.
+echo Build completed! Executable is in the build folder.
 pause
