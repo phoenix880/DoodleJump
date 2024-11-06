@@ -67,10 +67,3 @@ Example:
 ```bash
 DoodleJump.exe 1024 768 1  # Launches in fullscreen at 1024x768
 ```
-
-## Controls
-
-- **Left/Right Arrow Keys**: Move the character
-- **Mouse Movement**: Aim
-- **Left Mouse Button**: Shoot
-
